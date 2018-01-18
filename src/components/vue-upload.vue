@@ -160,7 +160,7 @@ export default {
         display: block;
         width: 50px;
         height: 50px;
-        // background: url("../assets/images/marketing/mariketing_sprite.png");
+        background: url("../assets/mariketing_sprite.png");
         background-position:  -10px -351px;
     }
     span.tip {
